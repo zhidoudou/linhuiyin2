@@ -1,0 +1,13 @@
+{
+"companyName": "DD",
+"productName": "model",
+"dataUrl": "DouDou0528.data.unityweb",
+"wasmCodeUrl": "DouDou0528.wasm.code.unityweb",
+"wasmFrameworkUrl": "DouDou0528.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
